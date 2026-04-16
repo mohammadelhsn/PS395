@@ -1,0 +1,37 @@
+﻿Dog,Happiness,RubsGroup,TreatGroup
+1,2,No Belly Rubs,Treats
+2,2,No Belly Rubs,Treats
+3,3,No Belly Rubs,Treats
+4,3,No Belly Rubs,Treats
+5,4,No Belly Rubs,Treats
+6,6,No Belly Rubs,Treats
+1,5,No Belly Rubs,No Treats
+2,4,No Belly Rubs,No Treats
+3,2,No Belly Rubs,No Treats
+4,5,No Belly Rubs,No Treats
+5,3,No Belly Rubs,No Treats
+6,7,No Belly Rubs,No Treats
+1,4,5 Belly Rubs,Treats
+2,5,5 Belly Rubs,Treats
+3,5,5 Belly Rubs,Treats
+4,5,5 Belly Rubs,Treats
+5,6,5 Belly Rubs,Treats
+6,7,5 Belly Rubs,Treats
+1,6,5 Belly Rubs,No Treats
+2,4,5 Belly Rubs,No Treats
+3,6,5 Belly Rubs,No Treats
+4,7,5 Belly Rubs,No Treats
+5,3,5 Belly Rubs,No Treats
+6,6,5 Belly Rubs,No Treats
+1,9,10 Belly Rubs,Treats
+2,7,10 Belly Rubs,Treats
+3,7,10 Belly Rubs,Treats
+4,6,10 Belly Rubs,Treats
+5,7,10 Belly Rubs,Treats
+6,9,10 Belly Rubs,Treats
+1,5,10 Belly Rubs,No Treats
+2,6,10 Belly Rubs,No Treats
+3,4,10 Belly Rubs,No Treats
+4,7,10 Belly Rubs,No Treats
+5,6,10 Belly Rubs,No Treats
+6,5,10 Belly Rubs,No Treats

@@ -68,8 +68,6 @@ shapiro_test(data$SC_mean) #shapiro-wilks to statistically assess normality
 
 
 
-### PRACTICE ####
-data$
 
 
 
